@@ -1,0 +1,67 @@
+
+src_rootdir = /home/httpd/homework/source/
+dst_rootdir = ./
+
+db_hw_logfile = /var/log/log_hwdb.log
+db_hw_logsize = 1048576
+
+db_host     = localhost
+db_name     = homework
+db_username = hwapp
+db_passwd   = hwapp_2020*02-05
+
+compile_vs_compilename                  = VisualStudio
+compile_vs_logname_prefix               = /vs-log/vslog-
+compile_vs_exec_dirname                 = /vs-exec
+compile_vs_exec_suffix                  = .vs.x86.debug.exe
+compile_vs_compile_onefile_batname      = hw_check_msbuild_single_file.bat
+compile_vs_compile_multifile_bat_prefix = hw_check_msbuild_multi_file
+compile_vs_compile_multifile_bat_suffix = .bat
+
+compile_dev_compilename                  = DevC++
+compile_dev_logname_prefix               = /dev-log/devlog-
+compile_dev_exec_dirname                 = /dev-exec
+compile_dev_exec_suffix                  = .dev.x86.debug.exe
+compile_dev_compile_onefile_batname      = hw_check_dev_build_single_file.bat
+compile_dev_compile_multifile_bat_prefix = hw_check_dev_build_multi_file
+compile_dev_compile_multifile_bat_suffix = .bat
+
+compile_cb_compilename                  = CodeBlocks
+compile_cb_logname_prefix               = .\cb-log\cblog-
+compile_cb_exec_dirname                 = .\cb-exec
+compile_cb_exec_suffix                  = .cb.x86.exe
+compile_cb_compile_onefile_batname      = hw_check_cb_build_single_file.bat
+compile_cb_compile_multifile_bat_prefix = hw_check_cb_build_multi_file
+compile_cb_compile_multifile_bat_suffix = .bat
+
+compile_linux_compilename                        = Linux
+compile_linux_logname_prefix                     = ./linux-log/linuxlog-
+compile_linux_exec_dirname                       = ./linux-exec
+compile_linux_exec_suffix                        = .linux.exec
+compile_linux_compile_onefile_batname            = hw_check_linux_build_single_file.sh
+compile_linux_compile_multifile_shellname_prefix = hw_check_linux_build_multi_file
+compile_linux_compile_multifile_shellname_suffix = .sh
+
+课号 : 10069201 学生数量 : 20 源文件名 : 3-b1.c
+  1: 2150233/  朱申哲 : 首行班级不匹配  [/*2150233 计算机拔尖班 朱申哲*/]
+  2: 2151132/  张乐天 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+  3: 2151611/  谢恩赐 : OK.
+  4: 2151769/  吕博文 : OK.
+  5: 2152065/  张乐天 : 首行班级不匹配  [/*2152065 张乐天 计拔班*/]
+  6: 2152349/    贺松 : OK.
+  7: 2152361/  陈卓夫 : OK.
+  8: 2152513/  肖博文 : OK.
+  9: 2152593/  郭玮琦 : OK.
+ 10: 2152606/  刘依扬 : OK.
+ 11: 2152821/  赵雨潇 : OK.
+ 12: 2153078/  田翔宇 : OK.
+ 13: 2153280/  徐海岩 : OK.
+ 14: 2153299/  杨非凡 : OK.
+ 15: 2153509/  向明阳 : 未提交.
+ 16: 2153682/    龚韬 : OK.
+ 17: 2153834/  程琪聪 : OK.
+ 18: 2154173/王邹济中 : OK.
+ 19: 2154294/    康力 : OK.
+ 20: 2154318/  蔡一锴 : OK.
+检查通过16/20个文件.
+

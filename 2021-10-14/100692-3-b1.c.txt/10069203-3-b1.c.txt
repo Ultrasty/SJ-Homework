@@ -1,0 +1,206 @@
+
+src_rootdir = /home/httpd/homework/source/
+dst_rootdir = ./
+
+db_hw_logfile = /var/log/log_hwdb.log
+db_hw_logsize = 1048576
+
+db_host     = localhost
+db_name     = homework
+db_username = hwapp
+db_passwd   = hwapp_2020*02-05
+
+compile_vs_compilename                  = VisualStudio
+compile_vs_logname_prefix               = /vs-log/vslog-
+compile_vs_exec_dirname                 = /vs-exec
+compile_vs_exec_suffix                  = .vs.x86.debug.exe
+compile_vs_compile_onefile_batname      = hw_check_msbuild_single_file.bat
+compile_vs_compile_multifile_bat_prefix = hw_check_msbuild_multi_file
+compile_vs_compile_multifile_bat_suffix = .bat
+
+compile_dev_compilename                  = DevC++
+compile_dev_logname_prefix               = /dev-log/devlog-
+compile_dev_exec_dirname                 = /dev-exec
+compile_dev_exec_suffix                  = .dev.x86.debug.exe
+compile_dev_compile_onefile_batname      = hw_check_dev_build_single_file.bat
+compile_dev_compile_multifile_bat_prefix = hw_check_dev_build_multi_file
+compile_dev_compile_multifile_bat_suffix = .bat
+
+compile_cb_compilename                  = CodeBlocks
+compile_cb_logname_prefix               = .\cb-log\cblog-
+compile_cb_exec_dirname                 = .\cb-exec
+compile_cb_exec_suffix                  = .cb.x86.exe
+compile_cb_compile_onefile_batname      = hw_check_cb_build_single_file.bat
+compile_cb_compile_multifile_bat_prefix = hw_check_cb_build_multi_file
+compile_cb_compile_multifile_bat_suffix = .bat
+
+compile_linux_compilename                        = Linux
+compile_linux_logname_prefix                     = ./linux-log/linuxlog-
+compile_linux_exec_dirname                       = ./linux-exec
+compile_linux_exec_suffix                        = .linux.exec
+compile_linux_compile_onefile_batname            = hw_check_linux_build_single_file.sh
+compile_linux_compile_multifile_shellname_prefix = hw_check_linux_build_multi_file
+compile_linux_compile_multifile_shellname_suffix = .sh
+
+课号 : 10069203 学生数量 : 159 源文件名 : 3-b1.c
+  1: 1851521/  沈天宇 : OK.
+  2: 1852007/  李新顺 : 首行班级不匹配  [//1852007 李新顺 信息01]
+  3: 1853022/  巩欣怡 : OK.
+  4: 1853539/  杨奇璇 : 首行不是注释行 [#include <stdio.h>]
+  5: 1854063/  姜昱九 : OK.
+  6: 1950995/  高远霆 : 未提交.
+  7: 2052914/  赵梓翔 : 未提交.
+  8: 2150238/    袁泉 : OK.
+  9: 2150239/  张语萱 : OK.
+ 10: 2150254/  杨君卓 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+ 11: 2150264/    徐辰 : OK.
+ 12: 2150489/    楊昊 : 未提交.
+ 13: 2150540/  王幸乐 : OK.
+ 14: 2150541/  伊江越 : OK.
+ 15: 2150984/  朱凌霄 : OK.
+ 16: 2151022/    李静 : OK.
+ 17: 2151125/  蒋卿轩 : OK.
+ 18: 2151128/  林天天 : OK.
+ 19: 2151131/  朱沙桐 : OK.
+ 20: 2151138/  陈冠旭 : OK.
+ 21: 2151272/  唐湘萍 : OK.
+ 22: 2151277/    黄麒 : OK.
+ 23: 2151280/  李松泽 : OK.
+ 24: 2151281/  唐思怡 : OK.
+ 25: 2151290/  张佳可 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+ 26: 2151398/  王宏耀 : OK.
+ 27: 2151401/  刘哲扬 : 字符集(UTF-8[BOM])不正确 [/*2151401 信16 刘哲扬*/]
+ 28: 2151513/  杜若菲 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+ 29: 2151523/  张开石 : OK.
+ 30: 2151525/  李长浩 : OK.
+ 31: 2151527/  韦卓林 : 首行学号不匹配 班级不匹配  [//*信17 韦卓林 2151527*/]
+ 32: 2151530/  郭俊岐 : OK.
+ 33: 2151531/  栾佳浩 : OK.
+ 34: 2151612/  陆重阳 : OK.
+ 35: 2151616/    束赫 : OK.
+ 36: 2151619/    马烜 : OK.
+ 37: 2151620/  余学慈 : OK.
+ 38: 2151621/    张威 : OK.
+ 39: 2151626/  杜镇宇 : OK.
+ 40: 2151628/  黄博睿 : OK.
+ 41: 2151629/  王奕凯 : OK.
+ 42: 2151630/  宋明辉 : OK.
+ 43: 2151635/  陈昊楠 : OK.
+ 44: 2151637/  马晗钰 : OK.
+ 45: 2151640/  陈则宇 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+ 46: 2151642/  张俊涛 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+ 47: 2151763/    崔煦 : OK.
+ 48: 2151767/  薛树建 : OK.
+ 49: 2151771/  栗嘉禛 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+ 50: 2151786/  张豪杰 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+ 51: 2151893/    李杏 : OK.
+ 52: 2151929/  王宜沣 : OK.
+ 53: 2152032/  张铭锐 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+ 54: 2152035/    石庆 : OK.
+ 55: 2152040/  肖子俊 : OK.
+ 56: 2152049/  姜福松 : OK.
+ 57: 2152050/    饶稷 : OK.
+ 58: 2152056/  王宇轩 : OK.
+ 59: 2152059/  季子默 : OK.
+ 60: 2152062/  纪朝翔 : OK.
+ 61: 2152187/  熊模聪 : 未提交.
+ 62: 2152188/    李荃 : OK.
+ 63: 2152195/  吴靖男 : OK.
+ 64: 2152210/  陈愉航 : OK.
+ 65: 2152341/  彭俊熙 : OK.
+ 66: 2152342/    陈扬 : OK.
+ 67: 2152344/  何彦骏 : 首行学号不匹配  [/* 2151266 信09 何彦骏*/]
+ 68: 2152347/  舒伊嘉 : 首行班级不匹配  [/*2152347 信03 舒伊嘉*/]
+ 69: 2152348/    彭金 : OK.
+ 70: 2152352/  杨卓中 : OK.
+ 71: 2152356/  伍家齐 : 未提交.
+ 72: 2152366/  刘浩宇 : OK.
+ 73: 2152491/  王亮淇 : OK.
+ 74: 2152498/  李昊峰 : OK.
+ 75: 2152585/  唐智懿 : OK.
+ 76: 2152588/  王景岳 : OK.
+ 77: 2152589/  窦昊天 : 未提交.
+ 78: 2152592/  宋子阳 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+ 79: 2152599/  李春晓 : OK.
+ 80: 2152604/  杨晨威 : OK.
+ 81: 2152698/  邱文韬 : OK.
+ 82: 2152699/  陈俊良 : OK.
+ 83: 2152704/  朱奕坤 : OK.
+ 84: 2152806/  杨茗钦 : 未提交.
+ 85: 2152809/  曾崇然 : OK.
+ 86: 2152810/    刘冲 : OK.
+ 87: 2152811/  王杰秋 : 首行学号不匹配  [/*22152811 信01 王杰秋*/]
+ 88: 2152812/  刘煜琨 : 字符集(UTF-8[BOM])不正确 [/*信19 2152812 刘煜琨 */]
+ 89: 2152813/  陆宇龙 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+ 90: 2152815/  吴智淳 : OK.
+ 91: 2152816/    侯汀 : OK.
+ 92: 2152818/  彭星竹 : OK.
+ 93: 2152822/    雷洁 : OK.
+ 94: 2152823/  康潇云 : OK.
+ 95: 2152830/  张翔瑞 : OK.
+ 96: 2152832/  王竑坤 : OK.
+ 97: 2152954/  瞿闻希 : OK.
+ 98: 2152955/    张尧 : 首行不是注释行 [#include <stdio.h>]
+ 99: 2152959/  龚琳权 : OK.
+100: 2152968/    谢桐 : OK.
+101: 2152970/  李锦霖 : OK.
+102: 2153049/  柴蔚田 : OK.
+103: 2153052/  韩梦阳 : OK.
+104: 2153056/  李昭杰 : OK.
+105: 2153060/  刘健康 : 未提交.
+106: 2153064/  张敦庭 : OK.
+107: 2153068/  胡芮宁 : OK.
+108: 2153075/  赵健健 : OK.
+109: 2153076/  裴熠东 : OK.
+110: 2153079/  李昱锋 : OK.
+111: 2153159/  郭偲偲 : OK.
+112: 2153174/  陈华机 : OK.
+113: 2153175/    黄颖 : OK.
+114: 2153176/  周洪扬 : OK.
+115: 2153178/  席昌林 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+116: 2153277/  沈钲阳 : OK.
+117: 2153283/  王旭光 : OK.
+118: 2153290/  张函墨 : OK.
+119: 2153292/    孙健 : OK.
+120: 2153295/  刘新鹏 : OK.
+121: 2153306/  贾世阳 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+122: 2153398/    王晗 : OK.
+123: 2153408/  李博远 : OK.
+124: 2153409/  李玉泉 : OK.
+125: 2153412/  赵星宇 : OK.
+126: 2153591/  杨昌烨 : 首行班级不匹配  [/*2153591 信息类 杨昌烨*/]
+127: 2153593/  杜迩航 : OK.
+128: 2153594/  王益堃 : OK.
+129: 2153601/    洪扬 : OK.
+130: 2153604/  郭晓杰 : OK.
+131: 2153686/  张启翔 : OK.
+132: 2153692/  李睿恒 : OK.
+133: 2153694/  朱志炜 : OK.
+134: 2153699/  周禹丞 : OK.
+135: 2153766/  陈子涵 : 首行不是注释行 [#define _CRT_SECURE_NO_WARNINGS]
+136: 2153769/    张烨 : OK.
+137: 2153825/    傅誉 : OK.
+138: 2153826/  陈艺浩 : OK.
+139: 2153828/  朱昱芃 : 字符集(UTF-8[BOM])不正确 [//2153828 信16 朱昱芃]
+140: 2153831/    李想 : OK.
+141: 2153835/  王祎婕 : OK.
+142: 2153837/  高韵斐 : OK.
+143: 2153986/    楼亿 : OK.
+144: 2154006/努尔塔斯·加尔肯 : 未提交.
+145: 2154024/艾孜海尔·伊力亚 : OK.
+146: 2154055/  杨林雨 : 未提交.
+147: 2154056/  孙钰哲 : OK.
+148: 2154060/  秦瀚騂 : OK.
+149: 2154070/  万睿渲 : OK.
+150: 2154156/  刘朝贵 : OK.
+151: 2154169/    向阳 : OK.
+152: 2154170/  王心炜 : OK.
+153: 2154175/    刘念 : OK.
+154: 2154302/  江梓贤 : OK.
+155: 2154311/  詹可迪 : OK.
+156: 2154398/阿格兰·阿德勒 : OK.
+157: 2154399/邹杨子楠 : OK.
+158: 2154400/艾力扎提·艾合买提 : 首行姓名不匹配  [/*2154400 信05 艾力扎提*/]
+159: 2154401/  党思培 : OK.
+检查通过124/159个文件.
+
