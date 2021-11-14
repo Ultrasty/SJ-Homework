@@ -11,8 +11,6 @@ setlocal enabledelayedexpansion
 ::你需要改的地方在这里↓
 cd "D:\文件\课\大四上\我的高程作业\测试目录"
 
-
-
 set count=0
 for /f "delims=^" %%i in (test-data.txt) do (
 echo Data #!count! is %%i^ >>myresult.txt
@@ -21,6 +19,7 @@ set /a count+=1
 )
 
 set count=0
+
 for /f "delims=^" %%i in (test-data.txt) do (
 echo Data #!count! is %%i^ >>demoresult.txt
 echo %%i^ | demo >>demoresult.txt
