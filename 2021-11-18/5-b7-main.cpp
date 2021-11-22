@@ -239,15 +239,18 @@ int main()
 
 		if (cin.fail()) {
 			cin.clear();
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			continue;
 		}
 		else if (n < 1 || n>10) {
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			continue;
 		}
 		else {
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			break;
 		}
 
@@ -264,15 +267,18 @@ int main()
 
 		if (cin.fail()) {
 			cin.clear();
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			continue;
 		}
 		else if (src < 'A' || src>'C') {
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			continue;
 		}
 		else {
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			break;
 		}
 	}
@@ -288,20 +294,24 @@ int main()
 
 		if (cin.fail()) {
 			cin.clear();
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			continue;
 		}
 		else if (dst < 'A' || dst>'C') {
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			continue;
 		}
 		else if (dst == src) {
 			cout << "目标柱(" << dst << ")不能与起始柱(" << src << ")相同" << endl;
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			continue;
 		}
 		else {
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			break;
 		}
 	}
@@ -311,15 +321,18 @@ int main()
 		cin >> delay;
 		if (cin.fail()) {
 			cin.clear();
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			continue;
 		}
 		else if (delay < 0 || delay > 5) {
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			continue;
 		}
 		else {
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			break;
 		}
 	}
@@ -329,15 +342,18 @@ int main()
 		cin >> display_stack;
 		if (cin.fail()) {
 			cin.clear();
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			continue;
 		}
 		else if (display_stack < 0 || display_stack > 1) {
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			continue;
 		}
 		else {
-			while ((c = getchar()) != '\n' && c != EOF);
+			while ((c = getchar()) != '\n' && c != EOF)
+				;
 			break;
 		}
 	}
