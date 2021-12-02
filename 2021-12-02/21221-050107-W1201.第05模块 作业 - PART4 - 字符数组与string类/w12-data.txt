@@ -1,0 +1,381 @@
+[5-b17-err-01]
+16abc 2 2 2 2
+
+[5-b17-err-02]
+16 2 2 2a 2
+
+[5-b17-err-03]
+11 2 2 2 2
+
+[5-b17-err-04]
+17 2 2 2 2
+
+[5-b17-err-05]
+16 -1 2 2 2
+
+[5-b17-err-06]
+16 2 1 2 2
+
+[5-b17-err-07]
+16 2 2 -9 2
+
+[5-b17-err-08]
+12 2 2 5 0
+
+[5-b17-err-09]
+16 2 3 5 7
+
+[5-b17-err-10]
+12 2 3 5 4
+
+[5-b17-ok-01]
+12 2 2 2 2
+
+[5-b17-ok-02]
+16 2 2 2 2
+
+[5-b17-ok-03]
+12 2 3 3 4
+
+[5-b17-ok-04]
+15 5 2 3 4
+
+[5-b17-ok-05]
+16 3 5 2 6
+
+[5-b18-err-01]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16abc 2 2 2 2
+*B{7M4K;llFL:gOC
+Ru(DP!+JlX\h5~2y
+0>{4xqG5@e`rj0hC
+_#K%?Mpa&*L8`2RN
+dn2FI6+Lyp_GX"6$
+,!luVb<W37U*'51~
+j<:#|Weq9g6A(}YR
+zU2n[l4J|#Pj4qo6
+Tl`f{7|rF4f(S6sP
+(m';e8ngE^9p;GaY
+
+[5-b18-err-02]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 2 2a 2
+*B{7M4K;llFL:gOC
+Ru(DP!+JlX\h5~2y
+0>{4xqG5@e`rj0hC
+_#K%?Mpa&*L8`2RN
+dn2FI6+Lyp_GX"6$
+,!luVb<W37U*'51~
+j<:#|Weq9g6A(}YR
+zU2n[l4J|#Pj4qo6
+Tl`f{7|rF4f(S6sP
+(m';e8ngE^9p;GaY
+
+[5-b18-err-03]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+11 2 2 2 2
+*B{7M4K;llF
+Ru(DP!+JlX\
+0>{4xqG5@e`
+_#K%?Mpa&*L
+dn2FI6+Lyp_
+,!luVb<W37U
+j<:#|Weq9g6
+zU2n[l4J|#P
+Tl`f{7|rF4f
+(m';e8ngE^9
+
+[5-b18-err-04]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+17 2 2 2 2
+*B{7M4K;llFL:gOCd
+Ru(DP!+JlX\h5~2y^
+0>{4xqG5@e`rj0hCw
+_#K%?Mpa&*L8`2RNQ
+dn2FI6+Lyp_GX"6$@
+,!luVb<W37U*'51~=
+j<:#|Weq9g6A(}YR'
+zU2n[l4J|#Pj4qo6]
+Tl`f{7|rF4f(S6sP+
+(m';e8ngE^9p;GaYx
+
+[5-b18-err-05]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 -1 2 2 2
+*B{7M4K;llFL:gOC
+Ru(DP!+JlX\h5~2y
+0>{4xqG5@e`rj0hC
+_#K%?Mpa&*L8`2RN
+dn2FI6+Lyp_GX"6$
+,!luVb<W37U*'51~
+j<:#|Weq9g6A(}YR
+zU2n[l4J|#Pj4qo6
+Tl`f{7|rF4f(S6sP
+(m';e8ngE^9p;GaY
+
+[5-b18-err-06]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 1 2 2
+*B{7M4K;llFL:gOC
+Ru(DP!+JlX\h5~2y
+0>{4xqG5@e`rj0hC
+_#K%?Mpa&*L8`2RN
+dn2FI6+Lyp_GX"6$
+,!luVb<W37U*'51~
+j<:#|Weq9g6A(}YR
+zU2n[l4J|#Pj4qo6
+Tl`f{7|rF4f(S6sP
+(m';e8ngE^9p;GaY
+
+[5-b18-err-07]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 2 -9 2
+*B{7M4K;llFL:gOC
+Ru(DP!+JlX\h5~2y
+0>{4xqG5@e`rj0hC
+_#K%?Mpa&*L8`2RN
+dn2FI6+Lyp_GX"6$
+,!luVb<W37U*'51~
+j<:#|Weq9g6A(}YR
+zU2n[l4J|#Pj4qo6
+Tl`f{7|rF4f(S6sP
+(m';e8ngE^9p;GaY
+
+[5-b18-err-08]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+12 2 2 5 0
+*B{7M4K;llFL:gOC
+Ru(DP!+JlX\h5~2y
+0>{4xqG5@e`rj0hC
+_#K%?Mpa&*L8`2RN
+dn2FI6+Lyp_GX"6$
+,!luVb<W37U*'51~
+j<:#|Weq9g6A(}YR
+zU2n[l4J|#Pj4qo6
+Tl`f{7|rF4f(S6sP
+(m';e8ngE^9p;GaY
+
+[5-b18-err-09]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 3 5 7
+*B{7M4K;llFL:gOC
+Ru(DP!+JlX\h5~2y
+0>{4xqG5@e`rj0hC
+_#K%?Mpa&*L8`2RN
+dn2FI6+Lyp_GX"6$
+,!luVb<W37U*'51~
+j<:#|Weq9g6A(}YR
+zU2n[l4J|#Pj4qo6
+Tl`f{7|rF4f(S6sP
+(m';e8ngE^9p;GaY
+
+[5-b18-err-10]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+12 2 3 5 4
+*B{7M4K;llFL
+Ru(DP!+JlX\h
+0>{4xqG5@e`r
+_#K%?Mpa&*L8
+dn2FI6+Lyp_G
+,!luVb<W37U*
+j<:#|Weq9g6A
+zU2n[l4J|#Pj
+Tl`f{7|rF4f(
+(m';e8ngE^9p
+
+[5-b18-err-11]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+12 2 2 2 2
+Y5U^079KVpx@
+I-0&8!Xoe8f8
+2.Ew?!LZql~0
+IesH&d*I60b#
+yP+f93TC4Mf=
+yF*n[o]53vk(
+o7*D9U[uLW%.
+O`et6M^^=0#z
+DI#G3{r$2j5g
+;fC\quF75VL!
+
+[5-b18-err-12]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 2 2 2
+0^@K*J4b0d+.Ypxd
+&Q-0IQz0C1JdvkOK
+ms5XeS?]9H~4rTDZ
+y-6%,qkVQ4TI*O.U
+x7[V=r]0#.*RLOrU
+A*Nu~N#^HjpI4b7A
+H*0])R?@aA]@Q5^Q
+q=vb$W;%8~0#?NM]
+A$xe1n$E_hQ!50+g
+Q7,]F%_w]2kyy54x
+
+[5-b18-err-13]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+12 2 3 3 4
+Y5*9u@]K-px&
+Y-k!3&7hz3~V
+.i?E?9-2gE8v
+%17(Nc6$Qtz?
+4[f|5e!:Se7Q
+[&aDt6z,Y9=5
+5n7Ij?Fu@[1\
+a99t0M^^.g#Z
+.r10QU+i^@9d
+4;0Jh2r%gW!/
+
+[5-b18-err-14]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+15 5 2 3 4
+n?2Y5QGK=-v7dX[
+e.3~~WXiFEZ93?M
+(2PS*7?1EGo.AUi
+7[H1.e10InFY^[H
+o9]TuQ11@l%#HCR
+9BZg.Kt,M1#@O5p
+[eZh7P0#h$%VJI8
+]98)YBhj?NMY=0V
+JIQ-4U@)3uPt1)A
+3YA2eQ5%E1,Z7=d
+
+[5-b18-err-15]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+15 5 2 3 4
+n?2Y5QGK=-v7dX[
+e.3~~WXiFEZ93?M
+(2PS*7?1EGo.AUi
+7[H1.e10InFY^[H
+o9]TuQ11@ %#HCR
+9BZg.Kt,M1#@O5p
+[eZh7P0#h$%VJI8
+]98)YBhj?NMY=0V
+JIQ-4U@)3uPt1)A
+3YA2eQ5%E1,Z7=d
+
+[5-b18-err-16]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 2 2 2
+0^@K*J4b0d+.Ypxd
+&Q-0IQz0C1JdvkOK
+ms5XeS?]9H~4rTDZ
+y-6%,qkVQ4TI*O.U
+x7[V=r]0#.*RLOrU
+A*Nu~N#^HjpI4b7A
+H*0])R?@aA]@Q5^Q
+q=vb$W;%8~0#?NM
+A$xe1n$E_hQ!50+g
+Q7,]F%_w]2kyy54x
+
+[5-b18-err-17]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 2 2 2
+0^@K*J4b0d+.Ypxd
+&Q-0IQz0C1JdvkOK
+ms5XeS?]9H~4rTDZ
+y-6%,qkVQ4TI*O.U
+x7[V=r]0#.*RLOrU
+A*Nu~N#^HjpI4b7A
+H*0])R?@aA]@Q5^Q
+q=vb$W;%8~0#?NM[]
+A$xe1n$E_hQ!50+g
+Q7,]F%_w]2kyy54x
+
+[5-b18-err-18]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 2 2 2
+1&okfVKs]P0^l#g(
+FxhX%lJ_4D8,q4Xo
+^z2q=J%qqF09U]=Z
+d.3z*m?0NZrG&sk*
+agc4&Q2c1woG^T6[
+CWYr_vdOa2-2-DJ3
+iZt"$LEcT.5Z667g
+Jk?WN787~*Y3Av$l
+DL#eE]xJ5Dz99P*+
+bpgJ1J,*J0Y$3T0x
+
+[5-b18-err-19]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 2 2 2
+1&okfVKs]P0^l#g(
+FxhX%lJ_4D8,q4Xo
+^z2q=J%qqF09U]=Z
+d.3z*m?0NZrG&sk*
+agc4&Q2c1woG^T6[
+CWYr_同Oa2-2-DJ3
+iZt@$LEcT.5Z667g
+Jk?WN787~*Y3Av$l
+DL#eE]xJ5Dz99P*+
+bpgJ1J,*J0Y$3T0x
+
+[5-b18-ok-01]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 2 2 2
+4&_c+2lgRU!keC,c
+LZZ9aG~g9?f3l2-6
+!4a8E8oXIn?%DIBJ
+U+vdS2)iO0Z(cE_5
+[3,WYu_qj5zBfUzC
+8b7U$9KcI].ji5.Z
+s&UwOe@]!w9JWZK1
+gXw)o4w~(q^7KN.9
+cK.9]s#Z57Pa9Jtj
+t*2@S09pphE?qX!(
+
+[5-b18-ok-02]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+12 2 3 3 2
+l4!Q1l5v9W*d
+8kia#1V7u*EC
+N#?pdb534fL]
+%0n[o63uWO6d
+yc1G8Hn1@-Hh
+sW08+u,VF+2i
+9AG~&xj4e0)3
+8m8E7J~$k%Hm
+^i+M7j2u89pT
+vi76-7mZQ99,
+
+[5-b18-ok-03]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+15 3 3 4 4
+cqv]E2X.98C%,l3
+65v0H)8mKn%^6~C
+7AZE=_)gEk0g6#1
+F5=3vYk)zC5(86*
+*8@UA3hZ9.#_8ox
+~Lvs)*Zq%0lI596
+-T2Bh+C37k--0he
+y22+sbB~5.]FYz0
+3*l13dOFn~=wY4@
+,E7T05+@ppg=!B3
+
+[5-b18-ok-04]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+14 3 2 2 5
+64&Qu+VT)gg~b-
+u3~sYZ7e*-[CR]
+zuP6_*I1I-a&p.
+D(03](@%wd3WAq
+Uq?U*F3$8r+fG-
+O+8XD]2_W@gaj-
+_!x?IF9Rn,1C#d
+b^=1N9=Sgb*^1Z
+_6^o^1v=]hRFP=
+L+zuAv@=66X#?9
+
+[5-b18-ok-05]
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 2 3 6
+4?=IZ[$1=@ocp.d8
+~@AXY*Qcb*6+9=,9
+i[#N*$$3-b^&78KT
+=f#3.U#?1^]-_r9L
+On(u~H&])O7~71?6
+73#r*TGa2=~w%0M-
+#?UB5t#y46V*m_+d
+k2*A62%E@e$2Z)]r
+7at%XPm9x^,2-!S_
+[v6t2#.aT$(H61(K
+

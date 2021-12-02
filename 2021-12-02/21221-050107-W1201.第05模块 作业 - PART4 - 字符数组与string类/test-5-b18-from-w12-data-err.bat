@@ -15,4 +15,6 @@ get_input_data2.exe w12-data.txt 5-b18-err-14 | 5-b18.exe
 get_input_data2.exe w12-data.txt 5-b18-err-15 | 5-b18.exe
 get_input_data2.exe w12-data.txt 5-b18-err-16 | 5-b18.exe
 get_input_data2.exe w12-data.txt 5-b18-err-17 | 5-b18.exe
+get_input_data2.exe w12-data.txt 5-b18-err-18 | 5-b18.exe
+get_input_data2.exe w12-data.txt 5-b18-err-19 | 5-b18.exe
 
