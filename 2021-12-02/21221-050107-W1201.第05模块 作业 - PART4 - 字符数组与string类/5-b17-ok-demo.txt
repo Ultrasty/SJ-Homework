@@ -1,0 +1,61 @@
+ECHO 处于打开状态。
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+12 2 2 2 2
+wp2A[)g77RoD
+-U6&pF.lq318
+R^4yxL6&ck4_
+vQFEpn_2Q@6t
+BmDvN$3YA~#3
+$(#4#%+FI6nq
+KfV3xi6[hT)$
+DFu1Sn_Xd0^6
+RW.JzB0^4gD+
+o(7+tG&%1Vk3
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 2 2 2 2
+4.0#0ReApT4DV[aY
+=7-4L0y(c(.8Q+^e
+?R-Bk63^a@4J670O
+t5fv~5rrN@WPAD#T
+7h?2K$VcT7[5xtN9
+x+^exEv1wDFZ5uSB
+5ErnB4hqOM,W1RR[
+gyI[A4KohjY7(s+p
+7lsCT]dJ9O*+!s2.
+(t&abb]6@iER8aE0
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+12 2 3 3 4
+w^mA3)77~Ro[
+0Uy-@95Lq+=g
+E?^0@+os0Kw3
+2q~yj5U@E$3&
+$R#i3s0,6v)D
+5fVjx^66]T)$
+Sp?F3_4.d7^j
+,(7L[2k6Nfh~
+~$f4.rH%u17I
+])&p(tt746JO
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+15 5 2 3 4
+1?~T39M2+RWAvu^
+VQ!0o5(LQ6]K+z=
+O0DW@k@WjE8@?D8
+3MRV@5)2D!v,f&T
+kN)GTZ$3#ZDz25+
+HhD1b7J_]J2P^1+
+6,-lZ41B.gDKR~a
+4nIH$35%g~$FsZU
+4AaPOO(7Uy&G8]#
+W#84&E4.A%C,oeR
+请输入密码长度(12-16)， 大写字母个数(≥2)， 小写字母个数(≥2)， 数字个数(≥2)， 其它符号个数(≥2)
+16 3 5 2 6
+).@hyRe0?To+)uA2
+]zV!,vZ7=9.&sgFp
+HL97R^@sc@od@?w&
+(RF$~ezR&s13,n#o
+]-$sybV4^_vbXT5+
+I,zbW@k^J95.r,?y
+i%g-iT8oV4&][(Lw
+Ym5%~sRi$t*-(wY5
+3t&a#WoG(*Ozu)]8
+O@~1.qcD%d&Iou&1
