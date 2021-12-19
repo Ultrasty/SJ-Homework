@@ -31,6 +31,11 @@ int main(int argc, char* argv[])
     while (!in.eof()) {
 
         in.getline(cache,100);
+        if (cache[0] == '\0') {
+            in.close();
+            out.close();
+            return 0;
+        }
 
         for (int i = 0; i < 100; i++) {
             if (cache[i] >= 'A' && cache[i] <= 'Z') {
@@ -59,7 +64,6 @@ int main(int argc, char* argv[])
             }
             out << char((cache[i * 3 + 36] - '0') * 16 + cache[i * 3 + 37] - '0');
         }
-
     }
     in.close();
     out.close();

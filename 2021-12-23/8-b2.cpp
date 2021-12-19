@@ -8,6 +8,18 @@ using namespace std;
 
 void print_cache(int c,int cache[],int limit) 
 {
+
+    bool is_empty = true;
+    for (int i = 0; i < 16; i++) {
+        if (cache[i] != 0) {
+            is_empty = false;
+        }
+    }
+
+    if (is_empty) {
+        return;
+    }
+
     cout << setw(8) << hex << c << "  ";
     for (int i = 0; i < limit; i++) {
         if (i == 8) {
