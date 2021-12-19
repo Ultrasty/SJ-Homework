@@ -20,7 +20,7 @@ void print_cache(int c,int cache[],int limit)
         return;
     }
 
-    cout << setw(8) << hex << c << "  ";
+    cout << setw(8) << hex << c-limit << "  ";
     for (int i = 0; i < limit; i++) {
         if (i == 8) {
             cout << "- ";
