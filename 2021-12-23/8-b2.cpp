@@ -11,7 +11,7 @@ void print_cache(int c,int cache[],int limit)
 
     bool is_empty = true;
     for (int i = 0; i < 16; i++) {
-        if (cache[i] != 0) {
+        if (cache[i] != -1000) {
             is_empty = false;
         }
     }
@@ -75,7 +75,7 @@ int main(int argc, char* argv[])
         if (c % 16 == 0) {
             print_cache(c, cache ,16);
             for (int i = 0; i < 16; i++) {
-                cache[i] = 0;
+                cache[i] = -1000; //-1000Îª¿Õ×´Ì¬
             }
         }       
     }
